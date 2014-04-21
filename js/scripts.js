@@ -1,2 +1,7 @@
 // My Scripts
-$(document).foundation();
+$(document).foundation({
+
+	orbit: 
+
+
+});
